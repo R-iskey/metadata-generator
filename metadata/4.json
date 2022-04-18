@@ -1,0 +1,11 @@
+{
+  "name": "1",
+  "description": "qweqwe",
+  "image": "qweqwe.com/1.png",
+  "attributes": [
+    {
+      "trait_type": "group",
+      "value": "Group 3"
+    }
+  ]
+}
